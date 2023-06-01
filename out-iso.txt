@@ -1,0 +1,2 @@
+Detected encoding is: UTF-8
+Confidence percentage is 25%
